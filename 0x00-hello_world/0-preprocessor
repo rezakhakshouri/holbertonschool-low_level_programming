@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -o mai.c
+cpp $CFILE -o mai.c
