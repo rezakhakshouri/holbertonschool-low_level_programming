@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
-/*
-* main 0 through 9
+/**
+* main - 0 through 9
 * description: simple numerical value
 * Return: 0
 */
