@@ -6,7 +6,7 @@
 /**
 * main - time determined variable
 * description: time
-* return: 0 zero at the end
+* Return: 0
 */
 
 int main(void)
