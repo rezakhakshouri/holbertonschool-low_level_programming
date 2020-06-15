@@ -25,9 +25,10 @@ else if (c > 5)
 {
 printf(" and is greater than 5\n");
 }
-else(c < 6)
+else(c < 6 && c != 0);
 {
 printf(" and is less than 6 and not 0\n");
 }
+
 return (0);
 }
