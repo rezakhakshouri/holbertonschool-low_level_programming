@@ -11,6 +11,7 @@ void print_alphabet(void)
 	int c;
 	int b;
 
+	_putchar('\n');
 	b = 1;
 	while (b <= 10)
 	{
