@@ -2,6 +2,7 @@
 /**
 * _islower - selects lower case
 * description : checks for lowercase
+* @c: a number
 * Return: 1 if c is lowercase and 0 otherwise
 */
 
