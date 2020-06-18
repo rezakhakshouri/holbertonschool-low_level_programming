@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
  * times_table - mutiplies numbers 0-9
- * Return: 0 
+ * Return: 0
  */
 
 void times_table(void)
@@ -18,7 +18,7 @@ void times_table(void)
 		while (n <= 9)
 		{
 			i = m * n;
-			if(i < 10)
+			if (i < 10)
 			{
 				_putchar(' ');
 			}
