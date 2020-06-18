@@ -2,6 +2,7 @@
 /**
 * _isalpha - selects alphabets
 * description : checks for alphabetic character
+* @c: a number
 * Return: 1 if c is a letter and 0 for otherwise
 */
 
