@@ -15,14 +15,14 @@ void print_to_98(int n)
 			printf("%d ", n);
 			n--;
 		}
-		print ("\n");
+		printf("\n");
 	}
 	else if (n < 98)
 	{
 		n  = n;
 		while (n <= 98)
 		{
-			print ("%d ", n);
+			printf("%d ", n);
 			n++;
 		}
 		printf("\n");
