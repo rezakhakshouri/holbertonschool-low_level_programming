@@ -2,8 +2,8 @@
 /**
 * print_sign - checks signs
 * description : controls positive negative
-* descriptio : n is a number
-* Return : -1,0,1
+* @n: is a number
+* Return: returns -1,0,1
 */
 
 int print_sign(int n)
