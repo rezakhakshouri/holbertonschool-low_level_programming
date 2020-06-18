@@ -1,10 +1,10 @@
 #include "holberton.h"
+
 /**
-* _abs() - always positive
-* Description : _abs calculates absolute value
-* @n: description of variable
-* RETURN VALUE : always positive
+ * _abs - always positive
+ * @n: description of variable
 */
+
 
 int _abs(int n)
 {
@@ -20,7 +20,7 @@ int _abs(int n)
 	{
 		return (0);
 	}
-	return (0);
+	return (n);
 
 }
 
