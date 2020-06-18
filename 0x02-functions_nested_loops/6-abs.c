@@ -3,7 +3,7 @@
 * _abs() - always positive
 * Description : _abs calculates absolute value
 * @n: description of variable
-* RETURN VALUE : n Returns  the  absolute value of the integer argument
+* RETURN VALUE : always positive
 */
 
 int _abs(int n)
