@@ -10,12 +10,7 @@
 int add(int n, int m)
 {
 	int r;
-	int d;
 
 	r = n + m;
-	d = r / 10;
-	_putchar('0' + d);
-	d = r % 10;
-	_putchar('0' + d);
-	return (0);
+	return (r);
 }
