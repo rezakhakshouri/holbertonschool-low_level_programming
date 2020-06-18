@@ -3,6 +3,7 @@
 /**
  * _abs - always positive
  * @n: description of variable
+ * Return: the same number
 */
 
 
